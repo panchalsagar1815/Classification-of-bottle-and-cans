@@ -9,7 +9,7 @@ The "Classification of Cans and Bottles using Satellite Imagery" project focuses
 
 1. **Data Collection and Cleaning:**
    - Accumulated a diverse dataset comprising satellite images capturing different landscapes and terrains.
-   - Implemented data cleaning techniques to remove artifacts, irrelevant features, and ensure uniformity in the dataset.
+   - Implemented data cleaning techniques to remove artifacts, and irrelevant features, and ensure uniformity in the dataset.
    - Ensured that the dataset was representative of various environmental conditions to enhance the model's robustness.
 
 2. **Principal Component Analysis (PCA):**
