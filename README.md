@@ -1,6 +1,6 @@
 # Classification-of-bottle-or-cans
 
-**Project Title: Classification of Cans and Bottles using Satellite Imagery**
+#**Project Title: Classification of Cans and Bottles using Satellite Imagery**
 
 **Overview:**
 The "Classification of Cans and Bottles using Satellite Imagery" project focuses on leveraging advanced image processing and deep learning techniques to automatically identify and classify the presence of cans and bottles in satellite images. This application has significant implications for waste management, environmental monitoring, and sustainability efforts.
