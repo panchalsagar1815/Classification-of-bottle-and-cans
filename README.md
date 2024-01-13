@@ -1,5 +1,3 @@
-# Classification-of-bottle-or-cans
-
 # **Project Title: Classification of Cans and Bottles using Satellite Imagery**
 
 **Overview:**
